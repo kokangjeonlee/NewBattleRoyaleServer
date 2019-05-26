@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2BCDB724-4415-3005-274C-FEADB591F77D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NewBattleRoyale",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
